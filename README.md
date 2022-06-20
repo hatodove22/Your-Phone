@@ -39,4 +39,5 @@ For Example:
 1. iPhone8 plus
 1. Pixel 3
 1. Xperia 10 III
+1. Xperia 1 III
 1. Xiaomi Redmi Note 9s
