@@ -29,6 +29,8 @@ Please tell me about your local foods. <br/>
 6. Ajari mochi(Kyoto)
 7. Kabosu (Oita)
 8. Xiaoguo Mixian (Yunnan)
-9．Tokyo Banana（Tokyo）
+9. Miso katsu (Aichi)
+10. Tokyo Banana（Tokyo）
+
 
 
