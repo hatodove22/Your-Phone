@@ -28,4 +28,6 @@ Please tell me about your local foods. <br/>
 5. Kuroge wagyu(Kumamoto)
 6. Ajari mochi(Kyoto)
 7. Kabosu (Oita)
+8. Xiaoguo Mixian (Yunnan)
+
 
