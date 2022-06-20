@@ -30,3 +30,4 @@ e.g. SODASHI
 8. El Condor Pasa
 9. Sumomomomomomo
 10. Stephen Curry
+11. Haribote Eregy
