@@ -27,3 +27,5 @@ Please tell me about your local foods. <br/>
 4. nijiiro cafe (Nara)
 5. Kuroge wagyu(Kumamoto)
 6. Ajari mochi(Kyoto)
+7. Kabosu (Oita)
+
