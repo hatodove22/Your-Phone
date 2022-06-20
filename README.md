@@ -31,6 +31,7 @@ Please tell me about your local foods. <br/>
 8. Xiaoguo Mixian (Yunnan)
 9. Miso katsu (Aichi)
 10. Tokyo Banana（Tokyo）
+11. Wakayama Ramen
 
 
 
