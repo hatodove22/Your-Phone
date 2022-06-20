@@ -15,12 +15,28 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Software Service). 
-What is your favorite or useful Software Service such like notion, Boost note. <br />
-Anything is ok within related to software. <br />
-if you help my project, pls add your favorite software into the List of Hobby with <strong> its link </strong>.
-for example
-- [Notion](https://github.com/namekosiru/FavoriteSoftwareService.git)
+# Example. 
+Thanks for coming!
+Describe here the smartphone you are using.
+あなたの使っているスマートフォンを教えてください
 
-I'm looking forward to your effort!
-# List of Hobby
+For Example:
+1. Pixel 3
+2. Pixel 5a
+
+# What smartphone are you using?
+1. iphone 13
+1. Xperia
+1. Iphone 11 Pro
+1. Galaxy
+1. iPhone12 mini
+1. iphone se2
+1. ASUSU Zenphone 8
+1. Xiaomi Mi 11 Lite 5G
+1. iPhone 12
+1. iPhone 13 Pro Max
+1. Iphone 13
+1. iPhone8 plus
+1. Pixel 3
+1. Xperia 10 III
+Xperia 1 III
